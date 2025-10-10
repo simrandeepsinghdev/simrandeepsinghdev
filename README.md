@@ -8,7 +8,7 @@ I'm a **CSE Undergrad** with a passion for **AI**, **Competitive Programming**, 
 - **AI Projects** and **Machine Learning** models.
 
 ## 🔧 Skills:
-- **Languages:** C/C++, Python, JavaScript
+- **Languages:** C/C++, Python, JavaScript, Java
 - **Libraries & Frameworks:** React.js, NumPy, Pandas
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 - **Databases:** MongoDB, MySQL
