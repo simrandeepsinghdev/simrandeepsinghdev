@@ -2,11 +2,6 @@
 
 I'm a **CSE Undergrad** with a passion for **AI**, **Competitive Programming**, and **Full-Stack Development**.
 
-## 🌟 What I’m Working On:
-- **Full-Stack Web Development** using React and Node.js.
-- Participating in **Competitive Programming** challenges.
-- **AI Projects** and **Machine Learning** models.
-
 ## 🔧 Skills:
 - **Languages:** C/C++, Python, JavaScript, Java
 - **Libraries & Frameworks:** React.js, NumPy, Pandas
